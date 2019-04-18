@@ -1,0 +1,6 @@
+c:\users\олег\documents\visual studio 2012\Projects\tss\tss\bin\Debug\tss.exe.config
+c:\users\олег\documents\visual studio 2012\Projects\tss\tss\bin\Debug\tss.exe
+c:\users\олег\documents\visual studio 2012\Projects\tss\tss\bin\Debug\tss.pdb
+c:\users\олег\documents\visual studio 2012\Projects\tss\tss\obj\Debug\tss.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2012\Projects\tss\tss\obj\Debug\tss.exe
+c:\users\олег\documents\visual studio 2012\Projects\tss\tss\obj\Debug\tss.pdb
